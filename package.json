@@ -1,0 +1,23 @@
+{
+  "name": "e2e-cypress",
+  "version": "1.0.0",
+  "description": "Linkedin course: https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jonathan.malatesta.07/e2e-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jonathan.malatesta.07/e2e-cypress/issues"
+  },
+  "homepage": "https://gitlab.com/jonathan.malatesta.07/e2e-cypress#readme",
+  "devDependencies": {
+    "cypress": "^4.0.1"
+  }
+}
